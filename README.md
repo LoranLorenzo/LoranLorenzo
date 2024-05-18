@@ -2,7 +2,7 @@
  
 - 📚 Atualmente Curso Análise e Desenvolvimento de Sistemas
 - 🤓 Analista de Dados Aspirante
-
+- ✉ loranlorenzo078@gmail.com
 ##
 Principais Ferramentas:
 <div style="display: inline_block">
