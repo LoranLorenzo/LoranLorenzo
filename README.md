@@ -10,6 +10,15 @@ Principais Ferramentas:
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/LoranLorenzo/LoranLorenzo/blob/main/Imagens/logoPowerBi.png?raw=trueraw=true">
   <img align="center" alt="Python" height="40" width="40" src="https://github.com/LoranLorenzo/LoranLorenzo/blob/main/Imagens/logoPython.png?raw=trueraw=true">
 </div>
+<br>
+
+  
+Onde pode me encontrar:
+<div style="display: inline_block">
+ <a href="https://www.linkedin.com/in/loran-lorenzo-856b60290/" target="_blank">
+    <img align="center" alt="" height="40" width="40" src="https://github.com/LoranLorenzo/LoranLorenzo/blob/main/Imagens/linkedin.png?raw=trueraw=true">
+  </a>
+</div>
 
 ## Portifólio e Principais Projetos
 ### Contoso Vendas Online Dashbord
